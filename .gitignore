@@ -1,3 +1,7 @@
 AnimeRPG/Temp/UnityTempFile-c19cdc236e59ebd40beab7dca2704dfa
 AnimeRPG/Temp/
 AnimeRPG/Library/
+AnimeRPG/obj/
+AnimeRPG/.vs/
+*.csproj
+*.sln
